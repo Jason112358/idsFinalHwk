@@ -1,0 +1,18 @@
+./result1.txt:
+correctNotdga = 106034
+wrongNotdga = 23160
+correctDga = 182343
+wrongDga = 20414
+
+./result2.txt:
+correctNotdga = 108181
+wrongNotdga = 21013
+correctDga = 186688
+wrongDga = 16069
+
+./result3.txt:
+correctNotdga = 108528
+wrongNotdga = 20666
+correctDga = 187189
+wrongDga = 15568
+
