@@ -25,6 +25,7 @@
 | result3.txt | 第三次测试结果                    |
 | result4.txt | 第四次测试结果                    |
 | result5.txt | 第五次测试结果                    |
+| result6.txt | 第六次测试结果                    |
 | sum.txt     | assess.py的输出文件，得到结果对比 |
 
 ### Script
