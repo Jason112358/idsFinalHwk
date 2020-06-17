@@ -1,5 +1,5 @@
 times = int(input("The sum of the results:"))
-for tmp in range(1,times+1):
+for tmp in range(4,times+1):
 	inputFile = "./result"+str(tmp)+".txt"
 	with open(inputFile) as result:
 		num = 0
@@ -11,7 +11,8 @@ for tmp in range(1,times+1):
 			line = line.strip()
 			hostinfo = line.split(",")
 			label = hostinfo[1]
-			if num < 129194 :
+#			if num < 129194 :
+			if num < 100 :
 				if label == "notdga":
 					correctNotdga += 1
 				else:
