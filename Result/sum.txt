@@ -16,3 +16,21 @@ wrongNotdga = 20666
 correctDga = 187189
 wrongDga = 15568
 
+./result4.txt:
+correctNotdga = 93
+wrongNotdga = 8
+correctDga = 95
+wrongDga = 3
+
+./result5.txt:
+correctNotdga = 91
+wrongNotdga = 10
+correctDga = 95
+wrongDga = 3
+
+./result6.txt:
+correctNotdga = 91
+wrongNotdga = 10
+correctDga = 95
+wrongDga = 3
+
